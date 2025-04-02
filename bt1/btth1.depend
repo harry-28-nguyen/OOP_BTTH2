@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743578054 source:d:\the anh\uit\oop\lab_2\btth1\main.cpp
+	<iostream>
+	"date.h"
+
+1743578012 source:d:\the anh\uit\oop\lab_2\btth1\src\date.cpp
+	"date.h"
+	<bits/stdc++.h>
+
+1743578012 d:\the anh\uit\oop\lab_2\btth1\include\date.h
+
