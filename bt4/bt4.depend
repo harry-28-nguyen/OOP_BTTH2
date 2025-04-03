@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743680638 source:d:\the anh\uit\oop\lab_2\bt4\src\time.cpp
+	"time.h"
+	<iostream>
+
+1743652780 d:\the anh\uit\oop\lab_2\bt4\include\time.h
+
+1743681544 source:d:\the anh\uit\oop\lab_2\bt4\main.cpp
+	<iostream>
+	"time.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743603499 source:d:\the anh\uit\oop\lab_2\bt2\main.cpp
+	<iostream>
+	"phanSo.h"
+
+1743603499 d:\the anh\uit\oop\lab_2\bt2\include\phanso.h
+
+1743603499 source:d:\the anh\uit\oop\lab_2\bt2\src\phanso.cpp
+	"phanSo.h"
+	<bits/stdc++.h>
+
